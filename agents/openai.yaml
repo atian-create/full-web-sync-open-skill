@@ -1,0 +1,4 @@
+interface:
+  display_name: "Full Web Sync"
+  short_description: "Open-source launch sync for creator skills."
+  default_prompt: "Use $full-web-sync-open-skill to package this Skill or project for GitHub, X, and Knowledge Planet."
